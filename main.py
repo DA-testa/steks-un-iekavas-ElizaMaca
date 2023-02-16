@@ -1,4 +1,4 @@
-# python3
+# python3 Elīza Mača RDCP0 grupa
 
 from collections import namedtuple
 
